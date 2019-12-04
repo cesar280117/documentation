@@ -6,7 +6,7 @@
 {{ $gh_subdir := ($.Param "github_subdir") }}
 {{ $gh_project_repo := ($.Param "github_project_repo") }}
 {{ if $gh_repo }}
-<div class="td-page-meta ml-2 pb-3 pt-2 mb-0">
+<div class="td-page-meta ml-1 pb-1 pt-2 mb-0">
 {{ $editURL := printf "%s/edit/master/content/%s" $gh_repo .Path }}
 {{ if and ($gh_subdir) (.Site.Language.Lang) }}
 {{ $editURL = printf "%s/edit/master/%s/content/%s/%s" $gh_repo $gh_subdir ($.Site.Language.Lang) $.Path }}
@@ -18,7 +18,7 @@
 {{ $issuesURL := printf "%s/issues/new?title=%s" $gh_repo (htmlEscape $.Title )}}
 {{ if $gh_project_repo }}
 {{ $project_issueURL := printf "%s/issues/new" $gh_project_repo }}
-<h5 style="text-align: center;"><i class="fa fa-sign-out"></i>Subtemas</h5><hr>
+<h5 style="text-align: center;"><i class="fa fa-sign-out"></i>En esta página</h5><hr>
 {{ end }}
 </div>
 {{ end }}
