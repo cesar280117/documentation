@@ -1,9 +1,8 @@
-+++
-title = "Crear Cuenta"
-description = "Crea tu cuenta de manera rapida y de forma correcta gracias a la documentación oficial que ofrece **SAIT Bóveda.**"
-weight = 1
-
-+++
+---
+title : "Crear Cuenta"
+linkTitle: "Configurar"
+weight : 1
+---
 
 #### ° Acceder a la pagina SAIT Bóveda.
 

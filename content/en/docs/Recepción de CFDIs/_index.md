@@ -2,8 +2,6 @@
 title: "Recepción de CFDI's"
 linkTitle: "Recepción de CFDI's"
 weight: 3
-description: >
-  See your project in action!
 ---
 
 Por cualquier medio que se haga la recepción de cfdis en bóveda, ya sea bajar del SAT, subir archivo ZIP, jalar de correos electrónicos.
