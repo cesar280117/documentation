@@ -1,6 +1,6 @@
 ---
 title : "Crear Cuenta"
-linkTitle: "Configurar"
+linkTitle: "Crear Cuenta"
 weight : 1
 ---
 

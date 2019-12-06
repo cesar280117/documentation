@@ -1,11 +1,11 @@
 ---
 title: "Inicio"
 linkTitle: "Inicio"
-weight: 2
+weight: 4
 ---
 ### ° Almacenamiento
 
-Para acceder al inicio de **SAIT bóveda** dar clic en el ícono de **Inicio**.
+Para acceder a la sección **inicio** de **SAIT bóveda** dar clic en el ícono de **Inicio**.
 
 ![IMG](inicio.png)
 

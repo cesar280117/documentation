@@ -1,27 +1,27 @@
+<head>
+  <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+</head>
+
 {{ $links := .Site.Params.links }}
 <footer class="bg-dark py-5 row d-print-none">
   <div class="container-fluid mx-sm-5">
     <div class="row">
       <div class="col-6 col-sm-4 text-xs-center order-sm-2">
-        {{ with $links }}
-        {{ with index . "user"}}
-        {{ template "footer-links-block"  . }}
-        {{ end }}
-        {{ end }}
+
+        <a class="mx-3" target="_blank" data-toggle="tooltip"data-placement="top" title="Accede a la pagina de facebook oficial de SAIT software"  href="https://www.facebook.com/saitsoftware"> <b class="text-white"> <i class="fa fa-facebook fa-2x text-white"> </i> Facebook</b> </a> 
+        <a target="_blank" data-toggle="tooltip"data-placement="top" title="Accede a la pagina oficial de twitter de SAIT software"  href="https://twitter.com/saitsoftware"> <b class="text-white"> <i class="fa fa-twitter fa-2x text-white"> </i> Twitter</b> </a> 
+
       </div>
       <div class="col-6 col-sm-4 text-right text-xs-center order-sm-3">
-        {{ with $links }}
-        {{ with index . "developer"}}
-        {{ template "footer-links-block"  . }}
-        {{ end }}
-        {{ end }}
+          <a class="mx-2" target="_blank" data-toggle="tooltip"data-placement="top" title="Accede al sitio oficial de google plus de SAIT software"  href="https://plus.google.com/+SAITMexico"> <b class="text-white"> <i class="fa fa-google-plus fa-2x text-white"> </i> Google</b> </a> 
+          <a class="mx-2" target="_blank" data-toggle="tooltip"data-placement="top" title="Accede al canal oficial en youtube de SAIT software"  href="https://www.youtube.com/channel/UCZZ2NVWgiB6j5HXP8Dmtuhw"> <b class="text-white"> <i class="fa fa-youtube fa-2x text-white"> </i> Youtube</b> </a> 
+          <a class="mx-2" target="_blank" data-toggle="tooltip"data-placement="top" title="Accede a la cuenta oficial de instagram de SAIT software"  href="https://www.instagram.com/saitmx/"> <b class="text-white"> <i class="fa fa-instagram fa-2x"> </i> Instagram</b> </a> 
+
       </div>
       <div class="col-12 col-sm-4 text-center py-2 order-sm-2">
-        {{ with .Site.Params.copyright }}<small class="text-white">&copy; {{ now.Year}} {{ .}} {{ T "footer_all_rights_reserved" }}</small>{{ end }}
-        {{ with .Site.Params.privacy_policy }}<small class="ml-1"><a href="{{ . }}" target="_blank">{{ T "footer_privacy_policy" }}</a></small>{{ end }}
-	{{ if not .Site.Params.ui.footer_about_disable }}
-		{{ with .Site.GetPage "about" }}<p class="mt-2"><a href="{{ .RelPermalink }}">{{ .Title }}</a></p>{{ end }}
-	{{ end }}
+        <span class="text-light">Copyright © Microsistemas San Luis S.A. de C.V. 2001-2019</span><br>
+        <a target="_blank" href="https://boveda.sait.mx/docs/AvisoPrivacidad.pdf">Aviso de Privacidad</a>
+        <a target="_blank" href="https://boveda.sait.mx/docs/TerminosCondiciones.pdf">Términos y Condiciones</a>
       </div>
     </div>
   </div>
