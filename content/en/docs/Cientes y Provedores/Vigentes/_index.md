@@ -56,6 +56,35 @@ Se podran ordenar los resultados de los **CFD's**, ordenandolos por:
 * Total  
 * tipo
 
- Para ordenar los **CFD's** dar **clic** en el boton de **Orden por** y seleccionar el que sea de su necesidad.
+ Para ordenar los **CFD's**, dar **clic** en el boton de **Orden por** y seleccionar el que sea de su necesidad.
 
 ![](orden.png)
+
+ Para generar reportes tales como:
+* descargar relación de **CFD's** en formato **PDF**.
+* descargar relación de **CFD's** en formato **XML**.
+* descargar archivo **ZIP** con los **PDF** y **XML** de los **CFD's** de la consulta.
+* Imprimir todos los **CFD's** en un solo **PDF** de multiples paginas.
+
+Dar **clic** en el boton de **Reportes** y selccionar el reporte a generar.
+
+![](reportes.png)
+
+Se podran realizar varios filtros de busqueda dandole **clic** al boton de **Filtros**
+
+![](filtros.png)
+
+se abrira una pequeña ventana en donde se mostraran todo los filtros de busqueda disponibles, en el cual se podra elegir el o los filtros deseados.
+
+![](filtros2.png)
+
+ya una vez elegido el o los filtros deseados, dar **clic** al boton de **Aplicar filtros**.
+> <span class="text-danger">NOTA:</span> Para este ejemplo se elegio el filtro de: Metodo de pago: **PUE-pago en una sola exhibición** y el tipo que fuera de **Ingreso**.
+ 
+ya una vez seleccionado el o los filtros dar **clic** a **Aplicar filtros**.
+
+![](filtros3.png)
+
+Ya una vez aplicado el o los filtros seleccionados apareceran en la parte superior de la tabla indicando el o los **filtros utilizados.**
+
+![](si.png)
