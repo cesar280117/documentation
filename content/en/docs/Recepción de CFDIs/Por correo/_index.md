@@ -5,7 +5,7 @@ weight: 5
 description: >
  Al configurar tu cuenta de correo en Bóveda se estará revisando constantemente tu bandeja de entrada en búsqueda de comprobantes fiscales.
 ---
-#### ° Registro de correos.
+### ° Registro de correos.
 
 Para ello dirígase a **config** y en la seccion de correos de clic en el boton **agregar**.
 
@@ -18,7 +18,7 @@ Aparecera una ventana donde debe colocar la **información de su cuenta de corre
 Es necesario que coloque tambien la URL del **servidor IMAP** y el **puerto IMAP**, estos varian dependiendo de su proveedor de correo electronico.
 <br><br>
 
-> <span class="text-danger">**NOTA!!!**</span> En caso de usar Gmail se usan estos datos:
+> <span class="text-danger">NOTA!!!</span> En caso de usar Gmail se utilizaran los siguientes datos:
 
 **Servidor IMAP:** imap.gmail.com	
 **Puerto IMAP:** 993
@@ -34,13 +34,13 @@ Despues de comprobar las credenciales el correo aparecera registrado en la tabla
 
 ![IMG](tabla.png)
 
-#### ° Sincronización.
-<span class="text-danger">**NOTA!!!**</span> Los Comprobantes que lleguen a los correos tardaran 
+### ° Sincronización.
+> <span class="text-danger">NOTA!!!</span> Los Comprobantes que lleguen a los correos tardaran 
 **30 minutos** en mostrarse , si desea que los comprobantes se muestren de inmediato dar clic al boton de **Sincronizar** para que dichos comprobantes **se muenstren al instante.**
 
 ![IMG](sincronizar.png)
 
-#### ° Modificación de correos.
+### ° Modificación de correos.
 
 Para modificar algun correo registrado dar **clic** en el boton de **Editar** de dicho correo.
 
@@ -55,7 +55,7 @@ Para modificar los campo de **Servidor IMAP** y **Puerto IMAP** se tendra que ac
 
 ![GIF](avanzada.gif)
 
-#### ° Eliminación de correos.
+### ° Eliminación de correos.
 Para eliminar algun correo registrado dar **clic** en el boton de **Eliminar** de dicho correo.
 ![IMG](eliminar.png)
 

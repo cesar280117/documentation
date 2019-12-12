@@ -11,7 +11,6 @@ description: >
 *	**CSD**: Se usara para el funcionamiento del buzón inteligente, con este sello recibiremos las solicitudes de cancelación.
 *	**e.Firma (FIEL)**: Se usara para hacer las solicitudes de descarga de comprobantes.
 
-##### ° Registrar certificados.
 
 *	Dirigirse a la sección **Certificados** y haga clic en **agregar**.
 

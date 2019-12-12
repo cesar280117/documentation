@@ -9,13 +9,13 @@ description: >
 
 **Es un requisito tener registrados sus certificados en SAIT Bóveda**
 
-#### ° Sección de descargas 
+### ° Sección de descargas 
 
 * Para ello diríjase a la sección de **Descargas** donde podrá ver el listado de solicitudes de descarga pendientes.
 
 ![](inicio.png)
 
-#### ° Realizar nueva solicitud.
+### ° Realizar nueva solicitud.
 
 Para hacer una solicitud de descarga de **clic** en el botón **agregar.**
 

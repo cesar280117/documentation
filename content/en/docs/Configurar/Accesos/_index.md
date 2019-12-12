@@ -10,18 +10,18 @@ description: >
 Esta acción registra el acceso que tendra un usario dentro de **SAIT Bóveda** para **ver o modificar la información de una empresa**, en caso de tener varias empresas debe registrar el usuario en cada empresa que quiera que tenga acceso. 
 
 ![IMG](1.png) 
-#### ° Asignar nivel de acceso
+### ° Asignar nivel de acceso
 Para asignar un nivel de acceso a un usuario dar **clic** en agregar. 
 
 ![IMG](2.png)
 
-#### ° Elegir acceso
+### ° Elegir acceso
 
 Se abrirá una ventana en donde se deverá de ingresar el correo del usuario y el nivel de privilegios que tendrá dentro de **SAIT Bóveda**.
 
 ![IMG](3.png) 
 
-#### ° Tipos de accesos
+### ° Tipos de accesos
 
 *	**Administrador**:
  Acceso a todo.
@@ -33,7 +33,7 @@ Se abrirá una ventana en donde se deverá de ingresar el correo del usuario y e
 	* No Agregar-modificar accesos.
 	* No agregar-modificar correos sync.
 
-#### ° Agregar acceso
+### ° Agregar acceso
 Ya una vez rellenado el **email** y el **privilegio** que tendra el ususario darle clic en **agregar**
 
 ![IMG](agregar.png)
@@ -43,7 +43,7 @@ Quedara registrado con un estatus de **PENDIENTE**.
 
 ![IMG](pen.png) 
 
-#### ° Confirmar acceso
+### ° Confirmar acceso
 
 El usuario recibirá un correo como la imagen mostrada acontinuación, en su bandeja de entrada para confirmar su cuenta.
 

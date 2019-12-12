@@ -88,3 +88,9 @@ ya una vez seleccionado el o los filtros dar **clic** a **Aplicar filtros**.
 Ya una vez aplicado el o los filtros seleccionados apareceran en la parte superior de la tabla indicando el o los **filtros utilizados.**
 
 ![](si.png)
+
+Para quitar el o algunos de los filtros seleccionados, dar **clic** al boton pequeño mostrado a continuación:
+
+![](no.png)
+
+De esta manera el filtro seleccionado se abra quitado por lo tanto la busqueda relacionada a ese filtro tambien lo ara.

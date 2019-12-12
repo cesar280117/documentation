@@ -23,12 +23,12 @@ Tambien se muestra una tabla en donde te indica en que fue **utilizada la memori
 
  Se muestra una grafica en donde se puede visualizar el **formato** de almacenado tanto como la **cantidad** de dicho formato  y el **espacio de almacenamiento** que ocupo almacenar dicho(s) formato(s) de cada mes del año.
 
-![GIF](grafica.gif)
+![IMG](grafica.png)
 
-Tambien puedes elegir un rango de fechas para visualizar el almacenamiento que se utilizo en **dichos meses.**
+Tambien se puede elegir un rango de fechas para visualizar el almacenamiento que se utilizo en **dichos meses,** seleccionando el rango de meses deseado y así mostrando solo las fechas que esten dentro de dicho rango seleccionado.
 
 
-![GIF](grafica_rango.gif)
+![IMG](grafica2.png)
 
 ### ° Validaciones
 
@@ -36,14 +36,10 @@ En la siguiente tabla se muetran los diferentes tipos de validaciones, mostrando
 
 ![IMG](validaciones.png)
 
-* Validación CFDI SAT
- * Fecha en la que se realizó la última validación del estatus de los CFDIS.<br><br>
-* Validación RFC EFOS
- * Fecha en la que se realizó la última validación de los contribuyentes EFOS.<br><br>
-* Verificación Buzón SAT
- *  Fecha en la que se realizó la última verificación de las solicitudes de cancelación al buzón tributario.</br></br>
-* Verificación Correos
- * Fecha en la que se realizó la última verificación de CFDIS en los correos. 
+* **Validación CFDI SAT:** Fecha en la que se realizó la última validación del estatus de los CFDIS.<br><br>
+* **Validación RFC EFOS:** Fecha en la que se realizó la última validación de los contribuyentes EFOS.<br><br>
+* **Verificación Buzón SAT:** Fecha en la que se realizó la última verificación de las solicitudes de cancelación al buzón tributario.
+* **Verificación Correos:** Fecha en la que se realizó la última verificación de CFDIS en los correos. 
 
 ### ° Estado de CFDIS.
 
@@ -51,22 +47,14 @@ En esta sección podras ver el **total de todos los CFDIS** tanto como **emitido
 
 ![IMG](estatus.png)
 
-* CFDI emitidos
- * CFDI emitidos a Clientes.
-* CFDIS Recibidos
- * CFDI recibidos de proveedores.
-* CFDIS Pendientes
- * Pendientes de validación ante el SAT.
-* CFDIS Alterados
- * CFDI no pasan validaciones de autenticidad.
-* Solicitudes de Cancelación
- * CFDI no pasan validaciones de autenticidad.
-* Respaldos Resguardados
- * CFDI no pasan validaciones de autenticidad.
-* Descargas Pendientes
- * Descargas solicitadas al SAT pendientes.
-* Contribuyentes EFOS
- * Empresas que Factura Operaciones Simuladas y/o Inexistentes.
+* **CFDI emitidos:** CFDI emitidos a Clientes.
+* **CFDIS Recibidos:** CFDI recibidos de proveedores.
+* **CFDIS Pendientes:** Pendientes de validación ante el SAT.
+* **CFDIS Alterados:** CFDI no pasan validaciones de autenticidad.
+* **Solicitudes de Cancelación:** CFDI no pasan validaciones de autenticidad.
+* **Respaldos Resguardados:** CFDI no pasan validaciones de autenticidad.
+* **Descargas Pendientes:** Descargas solicitadas al SAT pendientes.
+* **Contribuyentes EFOS:** Empresas que Factura Operaciones Simuladas y/o Inexistentes.
 
 ### ° Subida de CFDIS
 
@@ -75,5 +63,6 @@ arrastrando y soltando los comprobantes en el area permitida o buscandolos direc
 
 ![IMG](subir.png)
 
->Solo se permite subir 200 cfdis a la vez, para evitar el límite utilice la 
-<a href="http://sait.mx/download/saituploader.exe">App de subida masiva.</a>
+> **Solo se permite subir 200 cfdis a la vez, para evitar el límite utilice la 
+<a href="http://sait.mx/download/saituploader.exe">App de subida masiva.</a>**
+Descargue la app en el siguiente link: http://sait.mx/download/saituploader.exe

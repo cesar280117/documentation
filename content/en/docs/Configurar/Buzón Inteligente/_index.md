@@ -16,7 +16,7 @@ description: >
 * **Activado**:
   ![IMG](activo.png)
 
-* Se Rechaza de forma automática los CFDIs que lleguen al buzón siguiendo las reglas.
+* Se Rechaza de forma automática los CFDI's que lleguen al buzón siguiendo las reglas.
 	*	Rechazar con antigüedad en ## días .
 	*	Rechazar todo antes del mes actual .
 	*	Rechazar por monto mayor a $ ###,###.##.
@@ -33,23 +33,34 @@ description: >
   <br><br>
 *	En catálogo o listado de buzón se muestran por defecto las solicitudes procesadas ya sean aceptadas o rechazadas.
 
-#### ° Reglas de rechazo automatico
-con esta sección Podemos rechazar todas las solicitudes.
-![](shi.gif) 
+### ° Reglas de rechazo automático
+con esta sección Podemos rechazar todas las solicitudes o rechazar solo algunas.
+Para recharzar todas dar **clic** al boton de **--Seleccionar regla--** y seleccionar **todas las solicitudes**
+y por ultimo dar **clic** al boton de **Guardar reglas**.
 
-O podemos establecer **reglas que rechazaran los cfdis** que cumplan esos requisitos, los cfdis que no cumplan podemos verlos en el buzón inteligente, para ello dar clic en el siguiente campo y seleccionar **Algunas Solicitudes**.
+![](shi.png) 
 
-![](selec.gif) 
+O podemos establecer **reglas que rechazaran los CFDI's** que cumplan esos requisitos, los CFDI's que no cumplan podemos verlos en el buzón inteligente, para ello dar clic al bonton de **--Seleccionar regla--** y seleccionar **Algunas Solicitudes**.
 
-Se mostra un menú en donde se podra elegir **Las reglas que rechazaran los cfdis**
+![](selec.png) 
+
+Se mostra un menú en donde se podra elegir **Las reglas que rechazaran los CFDI's** , ya una vez elegindas dar **clic** al boton de **Guardar reglas**.
 
 ![](shi2.png) 
 
-#### ° Lista de aceptación
-Por ultimo podemos **establecer una lista de RFCs de emisores** a los cuales siempre aceptaremos sus solicitudes de cancelación.
-Para ello nos dirigiremos a la sección de **Lista de Aceptación** y agregarmos dichos **RFCs** emisores deseados.
+### ° Lista de aceptación
+Por ultimo podemos **establecer una lista de RFC's de emisores** a los cuales siempre aceptaremos sus solicitudes de cancelación.
+Para ello nos dirigiremos a la sección de **Lista de Aceptación** y dar un **clic** al campo de **Buscar por RFC/Nombre**.
 
-![](lista.gif) 
+![](lista.png) 
+
+Se mostran en una lista todos los **emisores** en donde se podran seleccionar los **RFC's** de emisores deseados.
+
+![](lista2.png) 
+
+Ya una vez seleccionado el o los **RFC's** de los emisores, dar **clic** al boton de **Guardar Lista**
+
+![](lista3.png) 
 
 <br><br><br><br>
 
