@@ -8,10 +8,12 @@ description: "En esta pestaña se muestran Los CFD'S vigentes. Estos son los que
 
 ![IMG](inicio.png)
 
+### ° Verificar estatus
 Se podran ver todos los <span title="Son los que ya estan validados ante el SAT.">**CFDI vigentes**</span> de los proveedores en la tabla inferior, mostrando el estatus de validación con una palomita verde, indicando que ya fueron aceptados por el **SAT**.
 
 ![IMG](tabla.png)
 
+### ° Acceder a CFD's
 Se podra acceder a la información de los **CFD's** dando **clic** al **UUID** del CFDI a visualizar.
 
 ![IMG](UUID.png)
@@ -20,17 +22,19 @@ Se mostrara una ventana en donde se mostraran los datos del **CFDI** seleccionad
 
 ![IMG](uuid_abierto.png)
 
+### ° Pre-aceptar Solicitud de cancelación
 Se podran realizar varias acciónes en la factura seleccionada tales como **Pre-aceptar Solicitud de cancelación** que se podra realizar seleccionando la casila con dicho nombre. 
 Al reazalir dicha acción se mostrar un mensaje avisando que el **CFDI** recibido ya fue cambiado a pre-aceptación.
 
 ![IMG](pre.png)
 
-
+### ° Verificar vigencia
 Se puede verificar al instante si tu **CFDI** se encuentra vigente o cancelado dando clic en el boton de **verificar** y asi te mostrar un aviso si dicho **CFDI** esta verificado.
 
 ![IMG](verificar.png)
 
-Se podran descargar el **CFDI** en formato *PDF* o *XML* dando **clic** en el boton que se desea ejecutar dicha descarga.
+### ° Descargar CFD's
+Se podra descargar el **CFDI** en formato *PDF* o *XML* dando **clic** en la pequeña flecha del boton que se desea ejecutar dicha descarga.
 
 ![IMG](descargas.png)
 
@@ -40,7 +44,7 @@ Se podran buscar los CFD's validados ingresando el **RFC** o **Nombre del contri
 
 ![](buscar1.png)
 
-Se podran buscar dichos CFD's ingresando el **Folio interno** o <span title="Identificador único universal
+Tambien se podran buscar dichos CFD's ingresando el **Folio interno** o <span title="Identificador único universal
 ">**UUID**</span> en dichos campos anterirormete mencionados y asi realizara la busqueda de manera automatica.
 
 ![](buscar2.png)
@@ -60,6 +64,7 @@ Se podran ordenar los resultados de los **CFD's**, ordenandolos por:
 
 ![](orden.png)
 
+### ° Generar reportes
  Para generar reportes tales como:
 * descargar relación de **CFD's** en formato **PDF**.
 * descargar relación de **CFD's** en formato **XML**.
@@ -70,6 +75,7 @@ Dar **clic** en el boton de **Reportes** y selccionar el reporte a generar.
 
 ![](reportes.png)
 
+### ° Filtros
 Se podran realizar varios filtros de busqueda dandole **clic** al boton de **Filtros**
 
 ![](filtros.png)
@@ -78,7 +84,6 @@ se abrira una pequeña ventana en donde se mostraran todo los filtros de busqued
 
 ![](filtros2.png)
 
-ya una vez elegido el o los filtros deseados, dar **clic** al boton de **Aplicar filtros**.
 > <span class="text-danger">NOTA:</span> Para este ejemplo se elegio el filtro de: Metodo de pago: **PUE-pago en una sola exhibición** y el tipo que fuera de **Ingreso**.
  
 ya una vez seleccionado el o los filtros dar **clic** a **Aplicar filtros**.
@@ -93,4 +98,4 @@ Para quitar el o algunos de los filtros seleccionados, dar **clic** al boton peq
 
 ![](no.png)
 
-De esta manera el filtro seleccionado se abra quitado por lo tanto la busqueda relacionada a ese filtro tambien lo ara.
+De esta manera el filtro seleccionado se abra quitado por lo tanto la busqueda relacionada a ese filtro tambien lo hará.
