@@ -18,7 +18,7 @@ Se podra acceder a la información de los **CFD's** dando **clic** al **UUID** d
 
 ![IMG](UUID.png)
 
-Se mostrara una ventana en donde se mostraran los datos del **CFDI** seleccionado.
+Se mostrara una ventana en donde se visualizaran los datos del **CFDI** seleccionado.
 
 ![IMG](uuid_abierto.png)
 
@@ -76,7 +76,7 @@ Dar **clic** en el boton de **Reportes** y selccionar el reporte a generar.
 ![](reportes.png)
 
 ### ° Filtros
-Se podran realizar varios filtros de busqueda dandole **clic** al boton de **Filtros**
+Se podran realizar varios filtros de busqueda dándole **clic** al boton de **Filtros**
 
 ![](filtros.png)
 

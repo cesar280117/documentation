@@ -80,7 +80,7 @@ Dar **clic** en el boton de **Reportes** y selccionar el reporte a generar.
 ![](reportes.png)
 
 ### ° Filtros
-Se podran realizar varios filtros de busqueda dandole **clic** al boton de **Filtros**
+Se podran realizar varios filtros de busqueda dándole **clic** al boton de **Filtros**
 
 ![](filtros.png)
 

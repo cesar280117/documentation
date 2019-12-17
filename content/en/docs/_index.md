@@ -8,7 +8,7 @@ menu:
 ---
 
 {{% pageinfo %}}
-SAIT Bóveda cuenta con su documentación oficial, para facilitarte el uso de nuestra aplicación y guiarte a realizar tus necesidades de manera rapida y de forma correcta.
+SAIT Bóveda cuenta con su documentación oficial, para facilitar el uso de nuestra aplicación y poder así orientar a realizar tus necesidades de manera rapida y de forma correcta.
 {{% /pageinfo %}}
 
 

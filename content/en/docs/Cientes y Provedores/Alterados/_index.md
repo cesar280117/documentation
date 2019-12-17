@@ -16,9 +16,11 @@ Se podra verificar la factura alterada si se presiona el **UUID** de dicha factu
 
 ![IMG](uuid.png)
 
-Se abrira una pestaña en donde se muestra el estatus de dicha factura, si la factua esta **alterada** no cargara el **PDF** y mostrar el siguiente mensaje: ***Este CFDI es considerado 'Alterado' por las siguienets razones: Error al Verificar Cadena y Sello: Sello Invalido: crypto/rsa: verification error***
+Se abrira una pestaña en donde se muestra el estatus de dicha factura, si la factua esta **alterada** no cargara el **PDF** y mostrar el siguiente mensaje: ***Este CFDI es considerado 'Alterado' por las siguienets razones: Error al Verificar Cadena y Sello: Sello Invalido: crypto/rsa: verification error***.
 
 ![IMG](alterado.png)
+
+### ° Busquedas de CFD's
 
 Para buscar cualquier factura alterada por su **Serie**, escribir la serie en el campo con 
 dicho nombre y dar **clic** al boton de buscar.
@@ -47,7 +49,7 @@ Para limpar la busqueda realizada anteriormente, dar **clic** al boton de **limp
 
 ![IMG](limpiar2.png)
 
-Tambien se podra realizar una busqueda de facturas a tiempo real, para ello escribir la **serie,folio o UUID** en el campo mostrado a continuación, de esa manera se realizara la busqueda a tiempo real. 
+Tambien se podra realizar una busqueda de facturas a tiempo real, para ello escribir la **serie,folio o UUID** en el campo mostrado a continuación. De esa manera se realizara la busqueda a tiempo real. 
 
 ![IMG](busqueda_avanzada.png)
 
@@ -73,10 +75,10 @@ Para limpar la busqueda realizada anteriormente, dar **clic** al boton de **limp
 
 Se podran ordenar los resultados de los CFD's, ordenandolos por:
 
-* Fecha
-* Folio
-* Total
-* tipo
+* **Fecha**
+* **Folio**
+* **Total**
+* **tipo**
 
 Para ordenar los **CFD's**, dar clic en el boton de **Orden por** y seleccionar el que sea de su necesidad.
 
