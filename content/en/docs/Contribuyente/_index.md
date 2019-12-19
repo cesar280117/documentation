@@ -15,12 +15,16 @@ En esta sección se monstraran todos los datos tanto de **clientes** como **prov
 ### ° Buscar contribuyente
 Para buscar algun contribuyente en especifico, dirigirse al campo de busqueda y escribir su **RFC** o su **nombre del contribuyente**, de esta manera se **buscara su contribuyente** en tiempo real.
 
-![GIF](busqueda.gif)
+![IMG](busqueda.png)
 
-### ° Ver CFD'S emitidos o resividos
-Para ver los **CFD'S** emitidos o recibidos de algun contribuyente, dar clic en el boton **ver** en el campo de **emitidos** si se desea ver los **CFD'S** emitidos al cliente o **recibidos** si se desea ver los **CFD'S** recibidos al cliente de dicho contribuyente.
+### ° Ver CFD'S emitidos o recividos
+Para ver los **CFD'S** emitidos algún contribuyente en específico, dar **clic** en el boton **ver** en el campo de **emitidos** 
 
-![GIF](vercfd's.gif)
+![IMG](emitidos.png)
+
+Para ver los **CFD'S** recibidos algún contribuyente en específico, dar **clic** en el boton **ver** en el campo de **recibidos** 
+
+![IMG](recibidos.png)
 
 ### ° Buscar EFO'S del SAT
 

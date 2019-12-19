@@ -8,19 +8,41 @@ description: "En esta pestaña se muestran las facturas a credito, y el detalle 
 ![IMG](inicio.png)
 
 ### ° Detalles de pagos
-Se podra visualizar en la parte final de la tabla el campo de **Pagos**, que este indica si la factura ya esta pagada, aun le fantan pagos o no se a realizado ningun pago.
+Se podra visualizar en la parte final de la tabla, el campo de **Pagos**. Este indica si la factura ya esta pagada,aún le fantan pagos o no se a realizado ningun pago.
 
 ![IMG](pagos.png)
+
+### ° Descarga directa
+
+Para descargar directamente la factura del pago realizado, pasar el curso por la factura a visualizar, al pasar el cursor por dicha factura aparecera dos iconos, uno es para visualizar en **PDF** y otro en **XML**
+
+![IMG](formatos.png)
+
+para abrir la factura en formato **PDF** dar **clic** al icono de **PDF**. Se abrira una ventana en donde se mostrara la factura en dicho formato. Para descargar la factura, dar **clic** al boton de descargar **PDF**.
+
+![IMG](pdf.png)
+
+> Se podra salir de la ventana que se abrio anteriormente, presionando **ESC** en su teclado o dando un clic fuera de la ventana.
+
+![IMG](esc.png)
+
+para abrir la factura en formato **XML** dar **clic** al icono de **XML**. Se abrira una ventana en donde se mostrara la factura en dicho formato. Para descargar la factura, dar **clic** al boton de descargar **XML**.
+
+![IMG](xml.png)
+
+> Se podra salir de la ventana que se abrio anteriormente, presionando **ESC** en su teclado o dando un clic fuera de la ventana.
+
+![IMG](esc.png)
 
 Para acceder a detalle al pago realizado, dar **clic** al **UUID** de la factura deseada.
 
 ![IMG](uuid.png)
 
-En la parte inferior se mostrara un tabla en donde indicara a detalle todos los datos de pago de la **factura**
+En la parte inferior se mostrara un tabla en donde indicara a detalle todos los datos de pago de la **factura**.
 
 ![IMG](pagos2.png)
 
-Se podra acceder al **recibo de pago** de cualquier pago raalizado dando **clic** al **UUID** de dicho pago.
+Se podra acceder al **recibo de pago** de cualquier pago realizado dando **clic** al **UUID** de dicho pago.
 
 ![IMG](pagos3.png)
 

@@ -2,17 +2,19 @@
 title: "Cancelados"
 linkTitle: "Cancelados"
 weight: 3
-description : "En esta pestaña se mostraran los CFD's que fueron cancelados por el SAT, esto ocasionado por algun error en el CFDI"
+description : "En esta pestaña se mostraran los CFD's que fueron cancelados por el emisor de la factura."
 ---
 ![IMG](inicio.png)
 
 ### ° Verificar estatus
-Se podran ver todos los <span title="Son los que ya estan validados ante el SAT.">**CFDI cancelados**</span> de los proveedores en la tabla inferior, mostrando el estatus de cancelación con una tacha color roja, indicando que estos fueron cancelados por el **SAT**.
+Se podran ver todos los <span title="Son los que ya estan validados ante el SAT.">**CFDI cancelados**</span> en la tabla inferior, mostrando el estatus de cancelación con una tacha color roja, indicando que estos fueron cancelados por el emiso de la **factura**.
 
 ![IMG](tabla.png)
 
 ### ° Acceder a CFD's
-Se podra acceder a la información de los **CFD's** cancelados dando **clic** al **UUID** del CFDI a visualizar.
+> Se podra acceder a la información de los **CFD's** cancelados de dos distintas maneras, acontinuación se mostrara de la primera manera y despues de la segunda manera.
+
+para acceder a las facturas de la primer manera, dar **clic** al **UUID** del CFDI a visualizar.
 
 ![IMG](uuid.png)
 
@@ -26,7 +28,25 @@ Se podra descargar el **CFDI** en formato *PDF* o *XML* dando **clic** en la peq
 
 ![IMG](descargas.png)
 
+Para acceder a los **CFD's** de la segunda forma, pasar el curso por la factura a visualizar, al pasar el cursor por dicha factura aparecera dos iconos, uno es para visualizar en **PDF** y otro en **XML**
 
+![IMG](formatos.png)
+
+para abrir la factura en formato **PDF** dar **clic** al icono de **PDF**. Se abrira una ventana en donde se mostrara la factura en dicho formato. Para descargar la factura, dar **clic** al boton de descargar **PDF**.
+
+![IMG](pdf.png)
+
+> Se podra salir de la ventana que se abrio anteriormente, presionando **ESC** en su teclado o dando un clic fuera de la ventana.
+
+![IMG](esc.png)
+
+para abrir la factura en formato **XML** dar **clic** al icono de **XML**. Se abrira una ventana en donde se mostrara la factura en dicho formato. Para descargar la factura, dar **clic** al boton de descargar **XML**.
+
+![IMG](xml.png)
+
+> Se podra salir de la ventana que se abrio anteriormente, presionando **ESC** en su teclado o dando un clic fuera de la ventana.
+
+![IMG](esc.png)
 
 Se podran buscar los CFD's validados ingresando el **RFC** o **Nombre del contribuyente** en los campos mencionados anteriormente y asi realizara la busqueda de manera automatica.
 
