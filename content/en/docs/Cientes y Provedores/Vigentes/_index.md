@@ -14,9 +14,9 @@ Se podran ver todos los <span title="Son los que ya estan validados ante el SAT.
 ![IMG](tabla.png)
 
 ### ° Acceder a CFD's
-> Se podra acceder a la información de los **CFD's** de dos distintas maneras, acontinuación se mostrara de la primera manera y despues de la segunda manera.
+> Se podra acceder a la información de los **CFD's** de dos distintas maneras, acontinuación se mostrara de la primera manera y despues se mostrara de la segunda manera.
 
-para acceder a las facturas de la primer manera, dar **clic** al **UUID** del CFDI a visualizar.
+Para acceder a las facturas de la primer manera, dar **clic** al **UUID** del CFDI a visualizar.
 
 ![IMG](UUID.png)
 
@@ -39,6 +39,8 @@ Se puede verificar al instante si tu **CFDI** se encuentra vigente o cancelado d
 Se podra descargar el **CFDI** en formato *PDF* o *XML* dando **clic** en la pequeña flecha del boton que se desea ejecutar dicha descarga.
 
 ![IMG](descargas.png)
+
+### ° Acceder de manera rapida a los CFD's
 
 Para acceder a los **CFD's** de la segunda forma, pasar el curso por la factura a visualizar, al pasar el cursor por dicha factura aparecera dos iconos, uno es para visualizar en **PDF** y otro en **XML**
 

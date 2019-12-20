@@ -27,7 +27,7 @@ dicho nombre y dar **clic** al boton de buscar.
 
 ![IMG](serie.png)
 
-De esta manera buscar la **Factura** con dicha **serie**.
+De esta manera se buscara la **Factura** con dicha **serie**.
 
 ![IMG](serie2.png)
 

@@ -12,7 +12,7 @@ Se podran ver todos los <span title="Son los que ya estan validados ante el SAT.
 ![IMG](tabla.png)
 
 ### ° Acceder a CFD's
-> Se podra acceder a la información de los **CFD's** cancelados de dos distintas maneras, acontinuación se mostrara de la primera manera y despues de la segunda manera.
+> Se podra acceder a la información de los **CFD's** cancelados de dos distintas maneras, acontinuación se mostrara de la primera manera y despues se mostrara de la segunda manera.
 
 para acceder a las facturas de la primer manera, dar **clic** al **UUID** del CFDI a visualizar.
 
