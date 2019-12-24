@@ -8,7 +8,7 @@ description: "En esta pestaña se mostraran todos los CFD's que fueron alterados
 ![IMG](inicio.png)
 
 ### ° Verificar estatus
-Se podran ver todos los <span title="Son los que ya estan validados ante el SAT.">**CFDI alterados**</span> de los proveedores en la tabla inferior, mostrando el estatus de alterados con un mensaje en rojo advirtiendo que dicha factura fue **alterada** y que no tiene validez fiscal ante el **SAT**.
+Se podran ver todos los **CFDI alterados** de los proveedores en la tabla inferior, mostrando el estatus de alterados con un mensaje en rojo advirtiendo que dicha factura fue **alterada** y que no tiene validez fiscal ante el **SAT**.
 
 ![IMG](estatus.png)
 
