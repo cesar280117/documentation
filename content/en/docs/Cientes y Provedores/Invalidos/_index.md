@@ -112,7 +112,7 @@ Se podran ordenar los resultados de los CFD's, ordenandolos por:
 * **Total**
 * **tipo**
 
-Para ordenar los **CFD's**, dar clic en el boton de **Orden por** y seleccionar el que sea de su necesidad.
+Para ordenar los **CFD's**, dar clic en el boton de **Orden por** & seleccionar el que sea de su necesidad.
 
 ![IMG](ordenar.png)
 

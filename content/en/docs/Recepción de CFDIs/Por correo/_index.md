@@ -53,7 +53,7 @@ Se abrira una ventana donde se monstraran los datos del correo seleccionado.
 Para modificar los campo de **Servidor IMAP** y **Puerto IMAP** se tendra que activar la **Configuración avanzada** , para ello dar clic en el enlace de
 <span class="text-primary">Configuración avanzada</span>, de esta manera de habilitaran los campos para poder **modificarlos**.
 
-![GIF](avanzada.gif)
+![IMG](avanzada.png)
 
 ### ° Eliminación de correos.
 Para eliminar algun correo registrado dar **clic** en el boton de **Eliminar** de dicho correo.
