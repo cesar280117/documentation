@@ -14,7 +14,7 @@ Se podran ver todos los **CFDI** pendientes en la tabla inferior, mostrando el e
 
 ### ° Adelantar Proceso 
 
-> **NOTA:** Los CFD's tardaran aproximandamente 30 minutos en se valide la integridad y la validez fiscal de dichos comprobantes. Por lo tanto, tardara dicho tiempo en asignarle su estatus correspondiente.
+> **NOTA:** **Los CFD's tardaran aproximandamente 30 minutos en se valide la integridad y la validez fiscal de dichos comprobantes. Por lo tanto, tardara dicho tiempo en asignarle su estatus correspondiente.**
 
 Para adelantar dicho proceso y no tener que esperar los 30 minutos, dar **clic** al boton de **Procesar Ahora**. 
 
@@ -23,7 +23,7 @@ Para adelantar dicho proceso y no tener que esperar los 30 minutos, dar **clic**
 De esta manera **se validara la integridad y la validez fiscal** de dichos comprobantes **de inmediato.**
 
 ### ° Acceder a CFD's
-> Se podra acceder a la información de los **CFD's** de dos distintas maneras, acontinuación se mostrara de la primera manera y despues se mostrara de la segunda manera.
+> **Se podra acceder a la información de los **CFD's** de dos distintas maneras, acontinuación se mostrara de la primera manera y despues se mostrara de la segunda manera.**
 
 Para acceder a las facturas de la primer manera, dar **clic** al **UUID** del CFDI a visualizar.
 
@@ -48,7 +48,7 @@ para abrir la factura en formato **PDF** dar **clic** al icono de **PDF**. Se ab
 
 ![IMG](pdf.png)
 
-> Se podra salir de la ventana que se abrio anteriormente, presionando **ESC** en su teclado o dando un clic fuera de la ventana.
+> **Se podra salir de la ventana que se abrio anteriormente, presionando **ESC** en su teclado o dando un clic fuera de la ventana.**
 
 ![IMG](esc.png)
 
@@ -56,7 +56,7 @@ para abrir la factura en formato **XML** dar **clic** al icono de **XML**. Se ab
 
 ![IMG](xml.png)
 
-> Se podra salir de la ventana que se abrio anteriormente, presionando **ESC** en su teclado o dando un clic fuera de la ventana.
+> **Se podra salir de la ventana que se abrio anteriormente, presionando **ESC** en su teclado o dando un clic fuera de la ventana.**
 
 ![IMG](esc.png)
 

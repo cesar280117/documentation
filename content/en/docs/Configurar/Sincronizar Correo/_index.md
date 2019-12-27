@@ -18,7 +18,7 @@ Aparecera una ventana donde debe colocar la **información de su cuenta de corre
 Es necesario que coloque tambien la URL del **servidor IMAP** y el **puerto IMAP**, estos varian dependiendo de su proveedor de correo electronico.
 <br> <br> 
 
-> <span class="text-danger">NOTA!</span> En caso de usar Gmail se usan estos datos:<br>
+> **NOTA: En caso de usar Gmail se usan estos datos:**<br>
 > **Servidor IMAP:** imap.gmail.com	<br>
 > **Puerto IMAP:** 993
 

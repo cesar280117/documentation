@@ -14,7 +14,7 @@ Se podran ver todos los <span title="Son los que ya estan validados ante el SAT.
 ![IMG](tabla.png)
 
 ### ° Acceder a CFD's
-> Se podra acceder a la información de los **CFD's** de dos distintas maneras, acontinuación se mostrara de la primera manera  y más adelante se mostrara de la segunda manera.
+> **Se podra acceder a la información de los **CFD's** de dos distintas maneras, acontinuación se mostrara de la primera manera  y más adelante se mostrara de la segunda manera.**
 
 Para acceder a las facturas de la primer manera, dar **clic** al **UUID** del CFDI a visualizar.
 
@@ -50,7 +50,7 @@ para abrir la factura en formato **PDF** dar **clic** al icono de **PDF**. Se ab
 
 ![IMG](pdf.png)
 
-> Se podra salir de la ventana que se abrio anteriormente, presionando **ESC** en su teclado o dando un clic fuera de la ventana.
+> **Se podra salir de la ventana que se abrio anteriormente, presionando **ESC** en su teclado o dando un clic fuera de la ventana.**
 
 ![IMG](esc.png)
 
@@ -58,7 +58,7 @@ para abrir la factura en formato **XML** dar **clic** al icono de **XML**. Se ab
 
 ![IMG](xml.png)
 
-> Se podra salir de la ventana que se abrio anteriormente, presionando **ESC** en su teclado o dando un clic fuera de la ventana.
+> **Se podra salir de la ventana que se abrio anteriormente, presionando **ESC** en su teclado o dando un clic fuera de la ventana.**
 
 ![IMG](esc.png)
 
@@ -106,7 +106,7 @@ se abrira una pequeña ventana en donde se mostraran todo los filtros de busqued
 
 ![](filtros2.png)
 
-> <span class="text-danger">NOTA:</span> Para este ejemplo se elegio el filtro de: Metodo de pago: **PUE-pago en una sola exhibición** y el tipo que fuera de **Ingreso**.
+> **<span class="text-danger">NOTA:</span> Para este ejemplo se elegio el filtro de: Metodo de pago: **PUE-pago en una sola exhibición** y el tipo que fuera de **Ingreso**.**
  
 ya una vez seleccionado el o los filtros dar **clic** a **Aplicar filtros**.
 

@@ -44,7 +44,7 @@ ya una vez dentro del **email** aparecera una carta de bienvenida, dentro de dic
 
 De lo contrario si es la unica cuenta registrada en **SAIT Bóveda** Se le redirigirá directamente a la pantalla principal de **Bóveda SAIT**
 
- > <span class="text-danger">NOTA:</span> Una cuenta de correo puede tener acceso a varias empresas diferentes.
+ > <span **NOTA:Una cuenta de correo puede tener acceso a varias empresas diferentes.**
 
 ![IMG](principal1.png)
 

@@ -14,7 +14,7 @@ Se podran ver todos los **CFDI invalidos** de los proveedores en la tabla inferi
 ![IMG](estatus.png)
 
 ### ° Acceder a CFD's
-> Se podra acceder a la información de los **CFD's** de dos distintas maneras, acontinuación se mostrara de la primera manera y más adelante se mostrara de la segunda manera.
+> **Se podra acceder a la información de los **CFD's** de dos distintas maneras, acontinuación se mostrara de la primera manera y más adelante se mostrara de la segunda manera.**
 
 Para acceder a las facturas de la primer manera, dar **clic** al **UUID** del CFDI a visualizar.
 
@@ -40,7 +40,7 @@ para abrir la factura en formato **PDF** dar **clic** al icono de **PDF**. Se ab
 
 ![IMG](pdf.png)
 
-> Se podra salir de la ventana que se abrio anteriormente, presionando **ESC** en su teclado o dando un clic fuera de la ventana.
+> **Se podra salir de la ventana que se abrio anteriormente, presionando **ESC** en su teclado o dando un clic fuera de la ventana.**
 
 ![IMG](esc.png)
 
@@ -48,7 +48,7 @@ para abrir la factura en formato **XML** dar **clic** al icono de **XML**. Se ab
 
 ![IMG](xml.png)
 
-> Se podra salir de la ventana que se abrio anteriormente, presionando **ESC** en su teclado o dando un clic fuera de la ventana.
+> **Se podra salir de la ventana que se abrio anteriormente, presionando **ESC** en su teclado o dando un clic fuera de la ventana.**
 
 ![IMG](esc.png)
 
