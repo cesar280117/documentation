@@ -106,6 +106,10 @@ Se podran buscar las **solicitudes de cancelación** por **:**
 * **Rango de fechas**
 * **Busqueda libre**
 
+> **NOTA: Todas los tipos de busquedas mostrados a continuación se utilizara el mismo boton para limpar cualquier busqueda seleccionada.**
+
+![IMG](limpiar.png)
+
 Para buscar por **serie** alguna solicitud de cancelación, teclear la **serie**** sobre el campo con dicho nombre y dar clic al boton de **Buscar** para realizar la busqueda. 
 
 ![IMG](serie.png)
